@@ -5,6 +5,10 @@ The application is a web-based **car rental management system** implemented usin
 
 Due to the educational nature of the project and the learning process involving different programming languages and conventions, naming within the codebase may be inconsistent (e.g. mixed Polish and English identifiers such as `czytajSamochod` and `addCar`).
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+
 ---
 
 ## Project Description
